@@ -1,0 +1,19 @@
+.post-card-container {
+  margin-top: 10em;
+  height: 500px;
+  width: 30%;
+
+
+  margin-bottom: 0;
+  margin-left: 35%;
+  padding: 0;
+  text-align: center;
+  align-self: center;
+
+
+}
+
+svg {
+  width: 40px;
+  height: 40px;
+}

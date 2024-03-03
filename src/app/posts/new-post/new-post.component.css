@@ -1,0 +1,29 @@
+.img-preview {
+  height: 250px;
+  width: 300px;
+}
+
+
+form {
+  margin-top: 0em;
+  padding-left: 10em;
+  padding-right: 10em;
+}
+
+.container {
+  margin-top: 10em;
+  width: fit-content;
+  height: fit-content;
+}
+
+.editor {
+  height: min-content;
+}
+
+.secondlast {
+  height: auto;
+}
+
+.last-row {
+  padding-top: 5em;
+}

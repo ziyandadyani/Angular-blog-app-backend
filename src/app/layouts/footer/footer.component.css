@@ -1,0 +1,16 @@
+footer {
+  height: 130px;
+  padding: 15px;
+  width: 100%;
+  background-color: var(--navbar-footer-color);
+  position: absolute;
+  margin-bottom: 0em;
+}
+
+.site-logo {
+  font-size: 1.2em;
+}
+
+.site-logo-footer {
+  color: grey
+}
